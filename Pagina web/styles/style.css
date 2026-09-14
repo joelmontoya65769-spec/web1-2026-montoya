@@ -1,0 +1,92 @@
+body {
+    background-color: #f5f7f5;
+    font-family: Arial, sans-serif;
+}
+
+
+
+.navbar {
+    background-color: #e9e259;
+    padding: 15px 0;
+}
+
+.navbar-brand {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.navbar-brand:hover {
+    color: white;
+}
+
+.nav-link {
+    color: white;
+    margin-left: 10px;
+}
+
+.nav-link:hover {
+    color: #d8f3dc;
+}
+
+
+
+.bienvenida {
+    padding: 80px 20px;
+    background-color: #e8f5e9;
+}
+
+.bienvenida h1 {
+    color: #e9e259;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.bienvenida p {
+    color: #555;
+    font-size: 20px;
+    margin: 20px 0 30px;
+}
+
+
+
+.categorias {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.categorias h2 {
+    color: #e9e259;
+    font-weight: bold;
+    margin-bottom: 35px;
+}
+
+
+
+
+.categoria-card {
+    border: none;
+    border-radius: 15px;
+    padding: 20px;
+    transition: 0.3s;
+}
+
+.categoria-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.categoria-card h5 {
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.categoria-card p {
+    color: #666;
+}
+
+
+
+.icono {
+    font-size: 60px;
+}
